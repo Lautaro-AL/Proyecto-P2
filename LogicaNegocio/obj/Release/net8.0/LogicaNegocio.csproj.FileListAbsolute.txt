@@ -1,0 +1,12 @@
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\bin\Release\net8.0\LogicaNegocio.deps.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\bin\Release\net8.0\LogicaNegocio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\bin\Release\net8.0\LogicaNegocio.pdb
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\LogicaNegocio.AssemblyInfo.cs
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\LogicaNegocio.sourcelink.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\LogicaNegocio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\refint\LogicaNegocio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\LogicaNegocio.pdb
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\LogicaNegocio\obj\Release\net8.0\ref\LogicaNegocio.dll

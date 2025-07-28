@@ -1,0 +1,70 @@
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.AssemblyInfoInputs.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.AssemblyInfo.cs
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.RazorAssemblyInfo.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.RazorAssemblyInfo.cs
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.sourcelink.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.staticwebassets.runtime.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.exe
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.deps.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.runtimeconfig.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.pdb
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.csproj.AssemblyReference.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebObligatorio.props
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebObligatorio.props
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebObligatorio.props
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebObligatorio.styles.css
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebObligatorio.bundle.scp.css
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebOblig.D262A5A6.Up2Date
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\refint\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.pdb
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.genruntimeconfig.cache
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\ref\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\appsettings.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.staticwebassets.runtime.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.exe
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.deps.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.runtimeconfig.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\WebObligatorio.pdb
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\LogicaNegocio.dll
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\bin\Debug\net8.0\LogicaNegocio.pdb
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.csproj.AssemblyReference.cache
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.AssemblyInfoInputs.cache
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.AssemblyInfo.cs
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.csproj.CoreCompileInputs.cache
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.RazorAssemblyInfo.cache
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.RazorAssemblyInfo.cs
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.sourcelink.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.WebObligatorio.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.build.WebObligatorio.props
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebObligatorio.props
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebObligatorio.props
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\scopedcss\bundle\WebObligatorio.styles.css
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\scopedcss\projectbundle\WebObligatorio.bundle.scp.css
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebOblig.D262A5A6.Up2Date
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\refint\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.pdb
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\WebObligatorio.genruntimeconfig.cache
+C:\Users\Lauta\Desktop\ORT\Semestre 2\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Debug\net8.0\ref\WebObligatorio.dll

@@ -1,0 +1,14 @@
+﻿
+@model LogicaNegocio.Cliente
+<h1>Cargar Saldo:</h1>
+
+<p> Su saldo actual: @Model.Saldo</p>
+
+<form method="post">
+    <label>Ingrese Monto</label>
+    <input type="text" name="saldo"/>
+    <br />
+    <input type="submit" name="cargarSaldo" value="Cargar"  />
+</form>
+
+@ViewBag.Mensaje

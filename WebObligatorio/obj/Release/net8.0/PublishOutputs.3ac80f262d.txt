@@ -1,0 +1,9 @@
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\WebObligatorio.exe
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\WebObligatorio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\WebObligatorio.deps.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\WebObligatorio.runtimeconfig.json
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\WebObligatorio.pdb
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\LogicaNegocio.dll
+C:\Users\Lauta\Desktop\ORT\P2\OBLIGATORIO\Obligatorio\WebObligatorio\obj\Release\net8.0\PubTmp\Out\LogicaNegocio.pdb

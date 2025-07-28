@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauta\\Desktop\\ORT\\P2\\OBLIGATORIO\\Obligatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\p2\\obligatorio\\obligatorio\\logicanegocio\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A01C8995-DCCD-41A2-B4E1-DC449A658169}|InterfazUsuario\\InterfazUsuario.csproj|c:\\users\\lauta\\desktop\\ort\\p2\\obligatorio\\obligatorio\\interfazusuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A01C8995-DCCD-41A2-B4E1-DC449A658169}|InterfazUsuario\\InterfazUsuario.csproj|solutionrelative:interfazusuario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\p2\\obligatorio\\obligatorio\\logicanegocio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Sistema.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Sistema.cs",
+              "RelativeToolTip": "LogicaNegocio\\Sistema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-06T03:53:49.397Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Subasta.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Subasta.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Subasta.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Subasta.cs",
+              "RelativeToolTip": "LogicaNegocio\\Subasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:29:35.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\P2\\OBLIGATORIO\\Obligatorio\\InterfazUsuario\\Program.cs",
+              "RelativeDocumentMoniker": "InterfazUsuario\\Program.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\P2\\OBLIGATORIO\\Obligatorio\\InterfazUsuario\\Program.cs",
+              "RelativeToolTip": "InterfazUsuario\\Program.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAcwIsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-09T13:12:17.2Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+﻿
+@model LogicaNegocio.Publicacion
+<h1>Ofertar:</h1>
+<p>La oferta mas alta actualmente es de : @Model.CalcularPrecio(Model.ID) </p>
+    <form method="post">
+        <label>Ingrese Oferta</label>
+        <input type="text" name="oferta" />
+        <br />
+        <input type="submit" name="ofertar" value="Ofertar" />
+    </form>
+@TempData["Mensaje"]

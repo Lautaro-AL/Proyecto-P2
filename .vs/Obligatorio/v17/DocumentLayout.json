@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\webobligatorio\\controllers\\publicacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|solutionrelative:webobligatorio\\controllers\\publicacionescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\webobligatorio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|solutionrelative:webobligatorio\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\webobligatorio\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|solutionrelative:webobligatorio\\controllers\\saldocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\webobligatorio\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|solutionrelative:webobligatorio\\controllers\\registrocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\sistema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\publicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\webobligatorio\\controllers\\subastacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D5ED04A-E41F-4F45-8FF1-629721E94A44}|WebObligatorio\\WebObligatorio.csproj|solutionrelative:webobligatorio\\controllers\\subastacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\oferta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\articulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\administrador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\subasta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|c:\\users\\lauta\\desktop\\ort\\semestre 2\\p2\\obligatorio\\obligatorio\\logicanegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DB89D4-0117-43C4-B73E-86EBD2F5D9DD}|LogicaNegocio\\LogicaNegocio.csproj|solutionrelative:logicanegocio\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sistema.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Sistema.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Sistema.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Sistema.cs",
+              "RelativeToolTip": "LogicaNegocio\\Sistema.cs",
+              "ViewState": "AgIAACgBAAAAAAAAAAAkwDUBAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:25:22.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Venta.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Venta.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Venta.cs",
+              "RelativeToolTip": "LogicaNegocio\\Venta.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:25:19.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Publicacion.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Publicacion.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Publicacion.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Publicacion.cs",
+              "RelativeToolTip": "LogicaNegocio\\Publicacion.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAgwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:22:14.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebObligatorio\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebObligatorio\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwEMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:26:40.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PublicacionesController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\PublicacionesController.cs",
+              "RelativeDocumentMoniker": "WebObligatorio\\Controllers\\PublicacionesController.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\PublicacionesController.cs",
+              "RelativeToolTip": "WebObligatorio\\Controllers\\PublicacionesController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA6wBsAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:16:55.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RegistroController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\RegistroController.cs",
+              "RelativeDocumentMoniker": "WebObligatorio\\Controllers\\RegistroController.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\RegistroController.cs",
+              "RelativeToolTip": "WebObligatorio\\Controllers\\RegistroController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T21:47:30.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SaldoController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\SaldoController.cs",
+              "RelativeDocumentMoniker": "WebObligatorio\\Controllers\\SaldoController.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\SaldoController.cs",
+              "RelativeToolTip": "WebObligatorio\\Controllers\\SaldoController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T22:29:42.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Usuario.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Usuario.cs",
+              "RelativeToolTip": "LogicaNegocio\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:25:20.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Oferta.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Oferta.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Oferta.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Oferta.cs",
+              "RelativeToolTip": "LogicaNegocio\\Oferta.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:25:28.042Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SubastaController.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\SubastaController.cs",
+              "RelativeDocumentMoniker": "WebObligatorio\\Controllers\\SubastaController.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\WebObligatorio\\Controllers\\SubastaController.cs",
+              "RelativeToolTip": "WebObligatorio\\Controllers\\SubastaController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:26:40.376Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Articulo.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Articulo.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Articulo.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Articulo.cs",
+              "RelativeToolTip": "LogicaNegocio\\Articulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:40:28.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Administrador.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Administrador.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Administrador.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Administrador.cs",
+              "RelativeToolTip": "LogicaNegocio\\Administrador.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:40:26.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Subasta.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Subasta.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Subasta.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Subasta.cs",
+              "RelativeToolTip": "LogicaNegocio\\Subasta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T20:25:17.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Cliente.cs",
+              "RelativeDocumentMoniker": "LogicaNegocio\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Lauta\\Desktop\\ORT\\Semestre 2\\P2\\OBLIGATORIO\\Obligatorio\\LogicaNegocio\\Cliente.cs",
+              "RelativeToolTip": "LogicaNegocio\\Cliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T19:42:30.34Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
